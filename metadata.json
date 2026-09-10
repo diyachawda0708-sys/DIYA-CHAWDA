@@ -1,0 +1,6 @@
+{
+  "name": "VERVE Modern Goods",
+  "description": "High-performance modern lifestyle ecommerce platform engineered for organic discovery, mobile UX, and frictionless conversion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
